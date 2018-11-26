@@ -1,5 +1,5 @@
 {
-  "name": "quill-table",
+  "name": "@paweldyminski/quill-table",
   "version": "1.0.1",
   "description": "Table functionality in QuillJS using Containers.",
   "main": "dist/quill-table.js",
