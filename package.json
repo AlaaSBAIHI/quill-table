@@ -19,7 +19,7 @@
   "author": "MrMadClown",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MrMadClown/quilljs-table/issues"
+    "url": "https://github.com/paweldyminski/quill-table/issues"
   },
   "homepage": "https://github.com/paweldyminski/quill-table#readme",
   "devDependencies": {
